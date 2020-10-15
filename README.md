@@ -29,6 +29,18 @@
 
 ## 1. "Visual Formatting Model" properties
 - [display](https://developer.mozilla.org/docs/Web/CSS/display)
+- [flex](https://developer.mozilla.org/docs/Web/CSS/flex)
+    - [flex-grow](https://developer.mozilla.org/docs/Web/CSS/flex-grow)
+    - [flex-shrink](https://developer.mozilla.org/docs/Web/CSS/flex-shrink)
+    - [flex-basis](https://developer.mozilla.org/docs/Web/CSS/flex-basis)
+- [flex-flow](https://developer.mozilla.org/docs/Web/CSS/flex-flow)
+    - [flex-direction](https://developer.mozilla.org/docs/Web/CSS/flex-direction)
+    - [flex-wrap](https://developer.mozilla.org/docs/Web/CSS/flex-wrap)
+- [justify-content](https://developer.mozilla.org/docs/Web/CSS/justify-content)
+- [align-content](https://developer.mozilla.org/docs/Web/CSS/align-content)
+- [align-items](https://developer.mozilla.org/docs/Web/CSS/align-items)
+- [align-self](https://developer.mozilla.org/docs/Web/CSS/align-self)
+- [order](https://developer.mozilla.org/docs/Web/CSS/order)
 - [visibility](https://developer.mozilla.org/docs/Web/CSS/visibility)
 - [opacity](https://developer.mozilla.org/docs/Web/CSS/opacity)
 - [clip](https://developer.mozilla.org/docs/Web/CSS/clip) _※Deprecated_
@@ -49,7 +61,6 @@
 
 
 ## 2. "Box Model" properties
-
 - [width](https://developer.mozilla.org/docs/Web/CSS/width)
 - [min-width](https://developer.mozilla.org/docs/Web/CSS/min-width)
 - [max-width](https://developer.mozilla.org/docs/Web/CSS/max-width)
@@ -142,21 +153,7 @@
 - [caption-side](https://developer.mozilla.org/docs/Web/CSS/caption-side)
 - [vertical-align](https://developer.mozilla.org/docs/Web/CSS/vertical-align)
 
-## 6. "Flex Box" properties
-- [flex](https://developer.mozilla.org/docs/Web/CSS/flex)
-    - [flex-grow](https://developer.mozilla.org/docs/Web/CSS/flex-grow)
-    - [flex-shrink](https://developer.mozilla.org/docs/Web/CSS/flex-shrink)
-    - [flex-basis](https://developer.mozilla.org/docs/Web/CSS/flex-basis)
-- [flex-flow](https://developer.mozilla.org/docs/Web/CSS/flex-flow)
-    - [flex-direction](https://developer.mozilla.org/docs/Web/CSS/flex-direction)
-    - [flex-wrap](https://developer.mozilla.org/docs/Web/CSS/flex-wrap)
-- [justify-content](https://developer.mozilla.org/docs/Web/CSS/justify-content)
-- [align-content](https://developer.mozilla.org/docs/Web/CSS/align-content)
-- [align-items](https://developer.mozilla.org/docs/Web/CSS/align-items)
-- [align-self](https://developer.mozilla.org/docs/Web/CSS/align-self)
-- [order](https://developer.mozilla.org/docs/Web/CSS/order)
-
-## 8. "User Interface" properties
+## 6. "User Interface" properties
 - [content](https://developer.mozilla.org/docs/Web/CSS/content)
 - [quotes](https://developer.mozilla.org/docs/Web/CSS/quotes)
 - [counter-increment](https://developer.mozilla.org/docs/Web/CSS/counter-increment)
@@ -168,7 +165,7 @@
 - [cursor](https://developer.mozilla.org/docs/Web/CSS/cursor)
 - [resize](https://developer.mozilla.org/docs/Web/CSS/resize)
 
-## 9. "Animation" properties
+## 7. "Animation" properties
 - [transition](https://developer.mozilla.org/docs/Web/CSS/transition)
     - [transition-property](https://developer.mozilla.org/docs/Web/CSS/transition-property)
     - [transition-duration](https://developer.mozilla.org/docs/Web/CSS/transition-duration)
@@ -184,7 +181,7 @@
     - [animation-fill-mode](https://developer.mozilla.org/docs/Web/CSS/animation-fill-mode)
     - [animation-play-state](https://developer.mozilla.org/docs/Web/CSS/animation-play-state)
 
-## 10. Other properties
+## 8. Other properties
 - [unicode-bidi](https://developer.mozilla.org/docs/Web/CSS/unicode-bidi)
 - [direction](https://developer.mozilla.org/docs/Web/CSS/direction)
 - [page-break-before](https://developer.mozilla.org/docs/Web/CSS/page-break-before)
